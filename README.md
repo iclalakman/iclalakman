@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineering Student
 ------------------
 
-I am a passionate Computer Engineering student who is always eager for new tech adventures. Currently, I have enrolled at Middle East Technical University and I'm diving into everything from Computer Science and AI. Beyond academics, I thrive on hands-on experiences like hackathons and research projects. I'm excited to connect and explore the dynamic world of technology together.
+I am a passionate Computer Engineering student who is always eager for new tech adventures. Currently, I have enrolled at Middle East Technical University and I'm diving into everything from Computer Science and Security. Beyond academics, I thrive on hands-on experiences like hackathons and research projects. I'm excited to connect and explore the dynamic world of technology together.
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [iclal.akman@metu.edu.tr](mailto:iclal.akman@metu.edu.tr)
