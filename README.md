@@ -8,7 +8,7 @@ I am a passionate Computer Engineering student who is always eager for new tech 
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [iclal.akman@metu.edu.tr](mailto:iclal.akman@metu.edu.tr)
-* 🧠  I'm learning Java, Data Science and Deep Learning
+* 🧠  I'm learning Java and Database Management Systems
 
 ### Skills
 
